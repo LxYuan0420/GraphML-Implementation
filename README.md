@@ -1,4 +1,4 @@
-# GraphML-Implementation
+# GraphML
 
-- [Cora Node Classification with GCN](notebooks/Cora_Node_Classification_with_GCN.ipynb)
+- [Cora Node Classification using GCNConv](notebooks/Cora_Node_Classification_using_GCNConv.ipynb)
 
